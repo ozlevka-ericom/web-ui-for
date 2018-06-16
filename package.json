@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-ansible": "^0.5.5"
+  }
+}
